@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @EmpTY1212
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning unity and c#
+- 📫 How to reach me - discord wyxern#7708
